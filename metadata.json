@@ -1,0 +1,8 @@
+{
+  "name": "VFX Touch Studio",
+  "description": "A high-fidelity, touch-interactive visual effects experience with zero latency. Create cinematic particle animations with your fingertips and chat with an advanced AI assistant.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
